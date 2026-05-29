@@ -30,17 +30,17 @@
 ### GitHub Repository link
 [Github Repo](https://github.com/yunus-shuaib/git-basics.git)
 
-
-### git clone and git add commands
+### CLI
+#### git clone and git add commands
 ![screenshot](./images/clone-stage.jpg)
 
-### git commit and git branch commands
+#### git commit and git branch commands
 ![screenshot](./images/commit-branch.jpg)
 
 ### git logs command
 ![screenshot](./images/log.jpg)
 
-### git reset command
+#### git reset command
 ![screenshot](./images/reset.jpg)
 
 ### git merge command
@@ -49,30 +49,30 @@
 ### merge conflict and resolving
 ![screenshot](./images/merge-conflict.jpg)
 
-### git handling of conflicts
+#### git handling of conflicts
 ![screenshot](./images/merge-conflict-git.jpg)
 
-### git push command
+#### git push command
 ![screenshot](./images/push-remote.jpg)
 ![screenshot](./images/push-result.jpg)
 
-### git fetch command
+#### git fetch command
 ![screenshot](./images/fetch.jpg)
 
-### git pull command
+#### git pull command
 ![screenshot](./images/pull-remote.jpg)
 
-### git stash command
+#### git stash command
 ![screenshot](./images/stash.jpg)
 ![screenshot](./images/stash2.jpg)
 
-### git revert command
+#### git revert command
 ![screenshot](./images/log-before-revert.jpg)
 ![screenshot](./images/log-after-revert.jpg)
 
-### git rebase command
+#### git rebase command
 ![screenshot](./images/rebase.jpg)
 ![screenshot](./images/rebase-issues.jpg)
 
-### pull request was implemented
+#### pull request was implemented
 
