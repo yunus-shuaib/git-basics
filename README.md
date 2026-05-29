@@ -27,6 +27,10 @@
 
 ## Practical Implementations
 
+## GitHub Repository link
+[Github Repo](https://github.com/yunus-shuaib/git-basics.git)
+
+
 ### git clone and git add commands
 ![screenshot](./images/clone-stage.jpg)
 
@@ -72,5 +76,3 @@
 
 ### pull request was implemented
 
-### GitHub Repository link
-[Github Repo](https://github.com/yunus-shuaib/git-basics.git)
