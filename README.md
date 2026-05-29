@@ -27,7 +27,7 @@
 
 ## Practical Implementations
 
-## GitHub Repository link
+### GitHub Repository link
 [Github Repo](https://github.com/yunus-shuaib/git-basics.git)
 
 
