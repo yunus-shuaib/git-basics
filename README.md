@@ -22,6 +22,8 @@
 
 • Stashing
 
+• Restore and comparison of commits
+
 • Rebasing and making pull request
 
 
